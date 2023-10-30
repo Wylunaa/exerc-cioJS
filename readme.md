@@ -3,6 +3,14 @@
  <p1>Você está implementando um novo game no formato de um RPG e nesta fase da criação do jogo, precisa implementar a funcionalidade que torna possível a um jogador ou jogadora escolher entre duas opções de caminhos distintos.</p1>
 
 <strong>As alternativas são:</strong>
-
     abrir a porta da esquerda; ou
     abrir a porta da direita.
+
+<strong>Para resolver este problema vamos seguir o seguinte algoritmo:</strong>
+
+<list>Definir a função principal (main), de acordo com a linguagem de programação abordada e quando houver;<list>
+    Criar uma variável que seja capaz de armazenar a opção do usuário (esquerda ou direita);
+    Solicitar ao usuário que informe a opção desejada, armazenando a resposta em uma variável;
+    Comparar a opção informada pelo usuário, utilizando um desvio condicional, que mostrará a sala de destino para jogador de acordo com a opção estabelecida;
+    Se a opção for esquerda, a mensagem exibida será "Abrindo a Porta 1", dado que o jogador estará na "Entrada";
+    Se a opção for direita, a mensagem exibida será "Abrindo a Porta 2", dado que o jogador está na "Entrada".
