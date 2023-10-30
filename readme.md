@@ -6,7 +6,7 @@
     abrir a porta da esquerda; ou
     abrir a porta da direita.
 
-<strong>Para resolver este problema vamos seguir o seguinte algoritmo:</strong>
+<h2><strong>Para resolver este problema vamos seguir o seguinte algoritmo:</strong></h2>
 
 1. Definir a função principal (main), de acordo com a linguagem de programação abordada e quando houver;<br>
 2. Criar uma variável que seja capaz de armazenar a opção do usuário (esquerda ou direita); <br>
