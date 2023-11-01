@@ -4,3 +4,21 @@
     margin:0;
     padding:0;
 }
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 3rem;
+    background-color: black;
+    min-height: 50px;
+}
+.box-img-header{
+    height: 100%;
+}
+.img-logo{
+    max-width: 90px;
+    height: 100%;
+}
