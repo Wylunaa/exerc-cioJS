@@ -11,8 +11,8 @@ header {
     align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
-    padding: 3rem;
-    background-color: black;
+    padding: 2rem;
+    background-color: #b0c2f2;
     min-height: 50px;
 }
 .box-img-header{
@@ -22,3 +22,21 @@ header {
     max-width: 90px;
     height: 100%;
 }
+ nav{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+ }
+
+ nav{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+ }
+ .nav-links{
+    text-decoration: none;
+    color: black;
+ }
