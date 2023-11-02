@@ -19,7 +19,7 @@ header {
     height: 100%;
 }
 .img-logo{
-    max-width: 90px;
+    max-width: 95px;
     height: 100%;
 }
  nav{
@@ -40,3 +40,20 @@ header {
     text-decoration: none;
     color: black;
  }
+
+ body{
+    background-color: rgb(231, 203, 235);
+    height: 100vh;
+    font-family: "Lato";
+ }
+
+.box-bnt-actions{
+    display: flex;
+    gap: 1.2rem;
+}
+button {
+    padding: .5rem;
+    font-family: .9rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
