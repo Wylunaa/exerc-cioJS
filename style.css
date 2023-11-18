@@ -12,7 +12,7 @@ header {
     gap: 1rem;
     flex-wrap: wrap;
     padding: 2rem;
-    background-color: #b0c2f2;
+    background-color: #43075e;
     min-height: 50px;
 }
 .box-img-header{
@@ -38,11 +38,11 @@ header {
  }
  .nav-links{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
  }
 
  body{
-    background-color: rgb(231, 203, 235);
+    background-color: rgb(173, 126, 204);
     height: 100vh;
     font-family: "Lato";
  }
