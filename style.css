@@ -12,7 +12,7 @@ header {
     gap: 1rem;
     flex-wrap: wrap;
     padding: 2rem;
-    background-color: #43075e;
+    background-color: #0c0c0c;
     min-height: 50px;
 }
 .box-img-header{
@@ -42,12 +42,20 @@ header {
  }
 
  body{
-    background-color: rgb(173, 126, 204);
+    background-color: rgb(80, 57, 95);
     height: 100vh;
     font-family: "Lato";
  }
 
-.box-bnt-actions{
+.box-btn-actions {
     display: flex;
-    gap: 1.2rem;
+    gap: 1rem;
 }
+
+button {
+    padding: .6rem;
+    font-family: .9rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
